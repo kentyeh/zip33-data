@@ -7,4 +7,4 @@
 |version .txt | 資料版號 |
 |zip33.xml | 3+3郵遞區號資料檔 |
 |zip33.sql | 我的自用資料 |
-|Rall1.txt | 下載自中郵的資料檔，時間比版號更早，不能確定是否為最新 |
+|rall1.csv | 下載自中郵的rall1.dbf另存成UTF8的資料檔|
